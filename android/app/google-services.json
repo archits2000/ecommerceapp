@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "178171134362",
+    "project_id": "grocers-ff1ce",
+    "storage_bucket": "grocers-ff1ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178171134362:android:87ff31bd323a0ed01c3a23",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178171134362-jmil5agvtjp9g82tmrlaasrvpdgge331.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled1",
+            "certificate_hash": "8c9a88136a61e952e53c72b46dece16938e409e1"
+          }
+        },
+        {
+          "client_id": "178171134362-q5vp9rve2m98osr676hbvuu8c8prpptl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCvo8_XBbct91vovzkdBexg1vgA9g7yKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178171134362-q5vp9rve2m98osr676hbvuu8c8prpptl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
